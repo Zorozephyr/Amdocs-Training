@@ -1,4 +1,4 @@
-package com.example.userdemo;
+package com.amdocs.training.jenkinsexample;
 
 public class User {
     private Long id;
